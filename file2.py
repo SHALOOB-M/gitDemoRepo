@@ -1,0 +1,1 @@
+print("Hello.. sample python script for Git Demo")
